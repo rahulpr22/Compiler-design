@@ -1,0 +1,27 @@
+main() 
+{
+	x := 1;
+	y := x + 5;
+	z := y + x;
+
+	print x;
+	read y;
+
+	if p <> q and a = 5:
+		print c;
+		print q
+	else
+		print a;
+		print b
+	end;
+
+	while x > y:
+		p := x + 1
+	end;	
+	
+    for i:=0 ; i<2 ; i:=i+1 :
+        print c 
+    end;
+
+end
+}

@@ -1,0 +1,4 @@
+S' -> S
+S -> E + T | T | E - T
+T -> T * F | T / F | F
+F -> id

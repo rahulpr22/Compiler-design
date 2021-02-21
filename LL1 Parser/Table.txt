@@ -1,0 +1,6 @@
+			    |	d		    |	$		    |	*		    |	=		    |
+	R		    |	R->L		    |	null		    |	R->L		    |	null		    |
+	S		    |	S->T		    |	null		    |	S->T		    |	null		    |
+	T		    |	T->L=R		    |	null		    |	T->L=R		    |	null		    |
+	L		    |	L->d		    |	null		    |	L->*R		    |	null		    |
+
