@@ -1,5 +1,5 @@
 
-Question 1:
+Question 1: Left recursion
 
 	Commands for Execution: g++ q1.cpp
 							./a.out
@@ -35,7 +35,7 @@ Question 1:
 							T' -> *FT'
 							T' -> $
 
-Question 2 :
+Question 2 : Left factoring
 
     Commands for Execution: javac q2.java
 							java q2
@@ -60,7 +60,7 @@ Question 2 :
 				X0-->Bc|AX1
 				X1-->B|c
 
- Question 3 :
+ Question 3 : Recursive-descent parser
 
     Commands for Execution: javac q3.java
 							java q3
