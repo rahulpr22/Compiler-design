@@ -2,7 +2,7 @@
 Question 1: Left recursion
 
 	Commands for Execution: g++ q1.cpp
-							./a.out
+				./a.out
 
 	Sample Input Format :  
 							Enter number of Productions: 
@@ -38,7 +38,7 @@ Question 1: Left recursion
 Question 2 : Left factoring
 
     Commands for Execution: javac q2.java
-							java q2
+			    java q2
 
 	Sample Input  :
 				Example Input: A--> qB | qC 
@@ -63,7 +63,7 @@ Question 2 : Left factoring
  Question 3 : Recursive-descent parser
 
     Commands for Execution: javac q3.java
-							java q3
+			    java q3
 
 	Sample Input  :
 				Given Input productions
